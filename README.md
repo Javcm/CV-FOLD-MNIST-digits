@@ -9,6 +9,7 @@ Notebook to use CV-FOLD in order to get the best parameters to classificate the 
 -Decision tree
 
 -Ada boost
+
 -MLP classifier
 
 Obtaining the best score with support vector machine.
