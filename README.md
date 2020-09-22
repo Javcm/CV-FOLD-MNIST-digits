@@ -5,6 +5,7 @@ Notebook to use CV-FOLD in order to get the best parameters to classificate the 
 -Support vectors machine
 
 -Logistic regression
+
 -Decision tree
 -Ada boost
 -MLP classifier
